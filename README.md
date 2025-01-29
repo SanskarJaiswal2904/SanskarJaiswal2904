@@ -5,7 +5,7 @@
 <div>
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" style="float: left;" alt="Cycle">
 
-  <img src="https://camo.githubusercontent.com/7121e075c5eb0d29a9e55c728f196e8914e2dea928bfc8e3ef1ccd8ff1ce716c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30362f36302f65662f30363630656665383266613364613432656435366565663031333137313833352e676966" width="200" style="float: right; margin-left: '1.5rem';" alt="Coding">
+  <img src="https://camo.githubusercontent.com/7121e075c5eb0d29a9e55c728f196e8914e2dea928bfc8e3ef1ccd8ff1ce716c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30362f36302f65662f30363630656665383266613364613432656435366565663031333137313833352e676966" width="200" style="float: right; margin-left: '10';" alt="Coding">
 </div>
 
 
