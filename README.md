@@ -1,8 +1,8 @@
 ![MasterHead](https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif)
 
 <h1 align="center">Hi 👋, I'm Sanskar Jaiswal</h1>
-<h3 align="center">A passionate MERN Stack and Android Developer from India.</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" style="float: right;" alt="Coding">
+<h3 align="center">A passionate Web and Android Developer from India.</h3>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600" style="float: right;" alt="Coding">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskarjaiswal2904&label=Profile%20views&color=0e75b6&style=flat" alt="sanskarjaiswal2904" /> </p>
