@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Sanskar Jaiswal</h1>
 <h3 align="center">A passionate Web and Android Developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskarjaiswal2904&label=Profile%20views&color=0e75b6&style=flat" alt="sanskarjaiswal2904" /> </p>
 
 
 <p align="center">
@@ -11,24 +10,24 @@
   <img src="https://camo.githubusercontent.com/7121e075c5eb0d29a9e55c728f196e8914e2dea928bfc8e3ef1ccd8ff1ce716c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30362f36302f65662f30363630656665383266613364613432656435366565663031333137313833352e676966" width="200" alt="Cycle">
 </p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskarjaiswal2904&label=Profile%20views&color=0e75b6&style=flat" alt="sanskarjaiswal2904" /> </p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskarjaiswal2904" alt="sanskarjaiswal2904" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@_sanskkkkar" target="blank"><img src="https://img.shields.io/twitter/follow/@_sanskkkkar?logo=twitter&style=for-the-badge" alt="@_sanskkkkar" /></a> </p>
 
-- 🔭 I’m currently working on [Chat Karo](https://github.com/SanskarJaiswal2904/Chat-Karo)
+- 🔭 I’m currently working on Generative AI
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1xxDomL8g7etwUBrWyLIZIkxiZ1Pi4bDj/view?usp=sharing](https://drive.google.com/file/d/1xxDomL8g7etwUBrWyLIZIkxiZ1Pi4bDj/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [Link](https://sanskarjaiswal2904.github.io/Sanskar-Website/)
 
-- 💬 Ask me about **React, Javascript, Node JS, MONGO DB, MySQL, Android Java**
+- 💬 Ask me about **React, Javascript, Node JS, MONGO DB, MySQL, Android Java, Vue**
 
 - 📫 How to reach me **sanskarjaiswal2904@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xxDomL8g7etwUBrWyLIZIkxiZ1Pi4bDj/view?usp=sharing](https://drive.google.com/file/d/1xxDomL8g7etwUBrWyLIZIkxiZ1Pi4bDj/view?usp=sharing)
+- 📄 Know about my experiences [Link](https://drive.google.com/file/d/1xxDomL8g7etwUBrWyLIZIkxiZ1Pi4bDj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
